@@ -1,0 +1,3 @@
+Student,gugan,18,CS01,55,JAVA
+Student,guru,18,CS01,55,JAVA
+Teacher,Dev,25,CS01,46,JAVA
